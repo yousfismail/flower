@@ -57,7 +57,7 @@ class Home extends StatelessWidget {
                 ),
                 currentAccountPicture: CircleAvatar(
                   radius: 55,  
-                  backgroundImage: AssetImage("assets/img/my.jpg"),
+                  backgroundImage: AssetImage ("assets/img/my.jpg"),
                 ),
                 accountEmail: Text("Abdallah@yahoo.com"),
                 accountName: Text("Abdallah Mohamed",
