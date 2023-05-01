@@ -14,7 +14,7 @@ class Login extends StatelessWidget {
     return SafeArea(
       child: Scaffold(
         backgroundColor: Color.fromARGB(255, 247, 247, 247),
-        body: Center(
+        body:  Center(
           child: Padding(
             padding: const EdgeInsets.all(33.0),
             child: Column(
