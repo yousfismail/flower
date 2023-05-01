@@ -114,7 +114,7 @@ class Home extends StatelessWidget {
                 child: Text("\$ 128"),
               )
             ],
-          )
+          ) 
         ],
       ),
     );
