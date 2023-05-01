@@ -31,7 +31,7 @@ class Login extends StatelessWidget {
                 ElevatedButton (onPressed: (){},
                 child: Text( ' Sing in ' , style: TextStyle(fontSize: 19) ) ,
                 style:  ButtonStyle (backgroundColor: MaterialStateProperty.all(BTNgreen),
-                padding: MaterialStateProperty.all(EdgeInsets.all(12)),
+                padding:  MaterialStateProperty.all(EdgeInsets.all(12)),
                 shape: MaterialStateProperty.all(RoundedRectangleBorder(
                    borderRadius:  BorderRadius.circular(8)
                 )),
