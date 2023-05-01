@@ -19,7 +19,7 @@ class MyTextField extends StatelessWidget {
                 obscureText: isPassword,
                 decoration: InputDecoration(
                   hintText: hinttexttt,
-                  enabledBorder: OutlineInputBorder(borderSide: Divider.createBorderSide(context),),
+                   enabledBorder: OutlineInputBorder(borderSide: Divider.createBorderSide(context),),
                   focusedBorder: OutlineInputBorder(borderSide: BorderSide(color: Colors.grey,),),
                   filled: true,
                   contentPadding: const EdgeInsets.all(8),
