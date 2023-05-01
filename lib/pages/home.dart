@@ -63,7 +63,7 @@ class Home extends StatelessWidget {
                 accountName: Text("Abdallah Mohamed",
                     style: TextStyle(
                       color: Color.fromARGB(255, 255, 255, 255),
-                    )),
+                    )), 
               ),
               ListTile(
                   title: Text("Home"), leading: Icon(Icons.home), onTap: () {}),
