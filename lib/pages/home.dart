@@ -87,7 +87,7 @@ class Home extends StatelessWidget {
                 style: TextStyle(fontSize: 16)),
           )
         ],
-      )), 
+      )),  
       appBar: AppBar(
         backgroundColor: Color.fromARGB(255, 76, 141, 95),
         title: Text("Home"),
