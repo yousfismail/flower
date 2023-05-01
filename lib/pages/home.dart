@@ -93,7 +93,7 @@ class Home extends StatelessWidget {
         title: Text("Home"),
         actions: [
           Row(
-            children: [
+            children: [ 
               Stack( 
                 children: [
                   Container(
