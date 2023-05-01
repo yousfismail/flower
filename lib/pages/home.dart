@@ -43,7 +43,7 @@ class Home extends StatelessWidget {
               ); 
             }), 
       ), 
-      drawer: Drawer(
+      drawer: Drawer( 
           child: Column(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
