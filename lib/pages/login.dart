@@ -48,7 +48,7 @@ class Login extends StatelessWidget {
                       Navigator.pushReplacement(context,
                       MaterialPageRoute(builder: (context) => const Register()),);                       
                     },
-                    child: Text('sing up' , style: TextStyle(color:  Colors.black , fontSize: 18))),
+                    child: Text('sing up' , style: TextStyle(color:  Colors.black , fontSize: 18))), 
                   ],
                 )
     
