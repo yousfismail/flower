@@ -13,5 +13,5 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Home(),
     );
-  }
+  } 
 }
