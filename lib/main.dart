@@ -1,4 +1,5 @@
 import 'package:flower_app/pages/register.dart';
+import 'package:flower_app/pages/home.dart';
 
 import 'package:flutter/material.dart';
 void main() {
