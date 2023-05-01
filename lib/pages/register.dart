@@ -7,7 +7,7 @@ import '../shared/colors.dart';
 import '../shared/custom_textfield.dart';
 
 class Register extends StatelessWidget {
-  const Register({super.key});
+  const Register ({super.key});
 
   @override
   Widget build(BuildContext context) {
