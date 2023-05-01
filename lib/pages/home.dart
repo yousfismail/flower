@@ -113,7 +113,7 @@ class Home extends StatelessWidget {
                 padding: const EdgeInsets.only(right: 12),
                 child: Text("\$ 128"),
               )
-            ],
+            ], 
           ) 
         ],
       ),
