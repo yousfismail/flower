@@ -3,7 +3,7 @@ import 'dart:developer';
 import 'package:flower_app/pages/register.dart';
 import 'package:flutter/material.dart';
 
-import '../shared/colors.dart';
+import '../shared/colors.dart'; 
 import '../shared/custom_textfield.dart'; 
 
 class Login extends StatelessWidget {
@@ -30,7 +30,7 @@ class Login extends StatelessWidget {
     
                 ElevatedButton (onPressed: (){},
                 child: Text( ' Sing in ' , style: TextStyle(fontSize: 19) ) ,
-                style:  ButtonStyle(backgroundColor: MaterialStateProperty.all(BTNgreen),
+                style:  ButtonStyle (backgroundColor: MaterialStateProperty.all(BTNgreen),
                 padding: MaterialStateProperty.all(EdgeInsets.all(12)),
                 shape: MaterialStateProperty.all(RoundedRectangleBorder(
                    borderRadius:  BorderRadius.circular(8)
